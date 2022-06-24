@@ -1,0 +1,16 @@
+C:\Users\angel\source\repos\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\angel\source\repos\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\angel\source\repos\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\angel\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\angel\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\pcnot\source\repos\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\pcnot\source\repos\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\pcnot\source\repos\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\pcnot\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.AssemblyReference.cache
+C:\Users\pcnot\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcnot\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\pcnot\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\pcnot\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
